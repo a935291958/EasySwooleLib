@@ -1,0 +1,15 @@
+{
+    "name": "caijinlong/easy-swoole-lib",
+    "autoload": {
+        "psr-4": {
+            "Caijinlong\\EasySwooleLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "caijinlong",
+            "email": "bearshop.cc@qq.com"
+        }
+    ],
+    "require": {}
+}
