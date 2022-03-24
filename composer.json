@@ -5,7 +5,7 @@
             "Caijinlong\\EasySwooleLib\\": "src/"
         }
     },
-    "license": "BSD",
+    "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
         {
