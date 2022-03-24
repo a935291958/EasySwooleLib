@@ -1,18 +1,28 @@
 {
   "name": "caijinlong/easy-swoole-lib",
   "description": "easy-swoole扩展包",
-  "autoload": {
-    "psr-4": {
-      "Caijinlong\\EasySwooleLib\\": "src/"
-    }
-  },
+  "keywords": [
+    "caijinlong",
+    "easy-swoole"
+  ],
+  "homepage": "https://github.com/a935291958/EasySwooleLib",
+  "type": "library",
   "license": "MIT",
-  "minimum-stability": "stable",
   "authors": [
     {
       "name": "caijinlong",
       "email": "bearshop.cc@qq.com"
     }
   ],
-  "require": {}
+  "require": {
+    "php": "^7.2 || ~8.0, <8.2"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Caijinlong\\EasySwooleLib\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
 }
