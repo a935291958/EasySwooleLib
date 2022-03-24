@@ -1,17 +1,18 @@
 {
-    "name": "caijinlong/easy-swoole-lib",
-    "autoload": {
-        "psr-4": {
-            "Caijinlong\\EasySwooleLib\\": "src/"
-        }
-    },
-    "license": "MIT",
-    "minimum-stability": "dev",
-    "authors": [
-        {
-            "name": "caijinlong",
-            "email": "bearshop.cc@qq.com"
-        }
-    ],
-    "require": {}
+  "name": "caijinlong/easy-swoole-lib",
+  "description": "easy-swoole扩展包",
+  "autoload": {
+    "psr-4": {
+      "Caijinlong\\EasySwooleLib\\": "src/"
+    }
+  },
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "caijinlong",
+      "email": "bearshop.cc@qq.com"
+    }
+  ],
+  "require": {}
 }
